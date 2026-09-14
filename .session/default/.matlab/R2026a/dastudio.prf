@@ -6,8 +6,22 @@
 [DAStudio DDG]
 DDGFontSize=10
 
+[DAStudio Model Explorer]
+MEGeometry=1471 792 1014 392
+MESearchOptions_DeepSearch=1
+MESearchOptions_EvaluateProperties=0
+MESearchOptions_MatchCase=0
+MESearchOptions_MatchWholeString=0
+MESearchOptions_RefineAnd=0
+MESearchOptions_RegularExpression=1
+MESearchOptions_SearchLinks=0
+MESearchOptions_SearchMasks=0
+MESplitterPositions=322019681045087
+
 [GLUEEditorPreferences]
 FirstTimeScrollNotification=0
+FirstTimeSimulinkPortMoveTool=1
+SuggestQuickInsertNotification=0
 
 [General]
 MatlabRelease=2026a
